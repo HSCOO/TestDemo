@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "91203730-3923-4CEF-A9C5-96016D6DA6E4"
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C41AD7BF-7832-410B-8665-F8B2050A1C35"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TestAPITests/TestAPITests.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "28"
+            endingLineNumber = "28"
+            landmarkName = "testSave()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "C41AD7BF-7832-410B-8665-F8B2050A1C35 - 25124c9cda296544"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TestAPITests.TestAPITests.testSave() -&gt; ()"
+                  moduleName = "TestAPITests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/hushengcai/Swift/TestAPI/TestAPITests/TestAPITests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "28"
+                  endingLineNumber = "28"
+                  offsetFromSymbolStart = "274">
+               </Location>
+               <Location
+                  uuid = "C41AD7BF-7832-410B-8665-F8B2050A1C35 - 25124c9cda296544"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TestAPITests.TestAPITests.testSave() -&gt; ()"
+                  moduleName = "TestAPITests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/hushengcai/Swift/TestAPI/TestAPITests/TestAPITests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "28"
+                  endingLineNumber = "28"
+                  offsetFromSymbolStart = "1501">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
